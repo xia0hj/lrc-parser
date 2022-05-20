@@ -1,0 +1,23 @@
+{
+  "name": "@xia0hj/lrc-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xia0hj/lrc-parser.git"
+  },
+  "author": "xia0hj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xia0hj/lrc-parser/issues"
+  },
+  "homepage": "https://github.com/xia0hj/lrc-parser#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
